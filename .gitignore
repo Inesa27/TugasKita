@@ -1,0 +1,4 @@
+# Database dan folder unggahan ikut dipush; hanya file sementara SQLite diabaikan.
+database/*.sqlite-journal
+database/*.sqlite-wal
+database/*.sqlite-shm
